@@ -1,0 +1,16 @@
+﻿body{
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	margin:0;
+	text-align:left;	
+}
+/*********************/
+
+canvas{
+	border:1px solid black;
+}
+
+.toggler { width: 500px; height: 200px; position: relative; }
+#button { padding: .5em 1em; text-decoration: none; }
+#effect { width: 452px; height: 135px; padding: 0.4em; position: relative; }
+#effect h3 { margin: 0; padding: 0.4em; text-align: center; }
+.ui-effects-transfer { border: 2px dotted gray; }
